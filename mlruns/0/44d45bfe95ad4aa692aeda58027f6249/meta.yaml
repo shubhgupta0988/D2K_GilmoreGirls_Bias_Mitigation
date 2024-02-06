@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tiwar/OneDrive/Desktop/ML/PROJECTS/d2k/mlruns/0/44d45bfe95ad4aa692aeda58027f6249/artifacts
+end_time: 1707213557198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44d45bfe95ad4aa692aeda58027f6249
+run_name: Bias Metrics Run
+run_uuid: 44d45bfe95ad4aa692aeda58027f6249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707213392174
+status: 3
+tags: []
+user_id: tiwar
