@@ -6,4 +6,4 @@ matplotlib
 scikit-learn
 xgboost
 scipy
-tkinter
+tkinter==8.6.12
