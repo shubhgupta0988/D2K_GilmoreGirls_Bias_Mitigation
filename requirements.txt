@@ -1,9 +1,8 @@
 streamlit
 pandas
-aif360
+aif360==0.5.0
 seaborn
 matplotlib
 scikit-learn
 xgboost
 scipy
-tkinter
