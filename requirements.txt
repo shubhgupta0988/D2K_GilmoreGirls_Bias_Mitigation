@@ -1,0 +1,8 @@
+streamlit
+pandas
+aif360
+seaborn
+matplotlib
+scikit-learn
+xgboost
+scipy
